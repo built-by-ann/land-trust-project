@@ -3,7 +3,7 @@
 **Authors**: Ann Mathew, Manda Li, Isaac Liu, Steven Yi, Teo Kitanovski   
 **Team Members**: Manda Li (Team Lead), Isaac Liu, Steven Yi, Teo Kitanovski  
 **Tools used**: QGIS, Rasterio, PyTorch  
-**Vanderbilt Data Science 2024*
+**Vanderbilt Data Science 2024**
 
 ---
 
