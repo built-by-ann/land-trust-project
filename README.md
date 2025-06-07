@@ -62,3 +62,5 @@ The project validates **ConvLSTM** as a strong model for geospatial change detec
 ## 📂 Files in this Repo
 
 - [`poster/landtrust-poster.pdf`](poster/landtrust-poster.pdf) – final presentation poster
+
+![`poster/landtrust-poster.pdf`](poster/landtrust-poster.pdf) – final presentation poster
