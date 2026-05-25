@@ -1,4 +1,4 @@
-# 🗺️ Predicting Land Conversion in Tennessee: A Spatiotemporal Approach Using ConvLSTM
+# Predicting Land Conversion in Tennessee: A Spatiotemporal Approach Using ConvLSTM
 
 **Authors**: Ann Mathew, Manda Li, Isaac Liu, Steven Yi, Teo Kitanovski   
 **Team Members**: Manda Li (Team Lead), Isaac Liu, Steven Yi, Teo Kitanovski  
