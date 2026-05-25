@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Introduction
+## Introduction
 
 Urban and suburban expansion pose serious challenges to land conservation. In collaboration with the Land Trust of Tennessee, this project forecasts future land cover changes across Tennessee using remote sensing and deep learning.
 
@@ -18,7 +18,7 @@ By leveraging the spatiotemporal strengths of ConvLSTM, we aim to answer:
 
 ---
 
-## 🛰️ Methods
+## Methods
 
 We used:
 - **NLCD Land Cover Data (2001–2021)** – raster data at 30m resolution  
@@ -34,7 +34,7 @@ Steps:
 
 ---
 
-## 📊 Results
+## Results
 
 - **Land development risk** was highest around urban cores and transport corridors.
 - **Prediction maps** clearly show expansion patterns from 2021 to 2050.
@@ -42,7 +42,7 @@ Steps:
 
 ---
 
-## 💬 Discussion
+## Discussion
 
 The project validates **ConvLSTM** as a strong model for geospatial change detection, combining sequence learning with raster image structure. Challenges included:
 - High memory load during raster-to-vector conversions  
@@ -51,7 +51,7 @@ The project validates **ConvLSTM** as a strong model for geospatial change detec
 
 ---
 
-## 🌱 Future Work
+## Future Work
 
 - Add geographic and demographic layers (e.g., population growth, infrastructure proximity)  
 - Improve resolution and frequency of time steps using additional NLCD years  
@@ -59,6 +59,6 @@ The project validates **ConvLSTM** as a strong model for geospatial change detec
 
 ---
 
-## 📂 Files in this Repo
+## Files in this Repo
 
 - [`poster/landtrust-poster.pdf`](poster/landtrust-poster.pdf) – final presentation poster
